@@ -1,0 +1,18 @@
+html {
+  background-color: #f0f0f0;
+}
+
+body {
+  color: black;
+  padding:15px;
+}
+
+.white-div {
+  background-color: white;
+  padding:10px;
+}
+
+#bonus {
+  background-color: #ccc;
+  padding:10px;
+}
